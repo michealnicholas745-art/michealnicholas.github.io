@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+
+.first-row { color: rgb(236, 94, 11) ; 
+
+font-weight: bold;
+text-align: center;
+font-style: italic;
+}
+
+
+h2 { background-color: rgb(207, 58, 92) ;
+
+
+}
+.topper { font-family: "Helvetica", sans-serif; 
+
+
+}
+body {font-size: 17px;
+background-image: image(https://images.unsplash.com/photo-1617690032954-692168050cac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZhc2hpb24lMjBzdHVkaW98ZW58MHx8MHx8fDA%3D);
+}
+
+#grouper { font-family: Arial, Helvetica, sans-serif;
+
+font-style: italic;
+font-weight: bold;
+}
+
+.pointer{color:black ;
+box-sizing: border-box;
+margin-left: 20px;
+padding: 20px;
+background-color: brown;}
+
+  </style>
+</head>
+
+<body>
+
+<h1 class="first-row">
+  WELCOME TO M.A.D ATTIRE BRAND !!!
+</h1>
+<h2>Home of quality wears</h2>
+<p class="topper">founded in te year 2010 by the award winning and lead fashion designer <em>Micheal Nicholas</em> a proud Nigerian and a true <em> Legosian </em> . The name M.A.D is just an abrivation of the real meaning which is  <strong> MAKING / MAKE A DIFFERENCE </strong>.
+We specilaze in the production of unisex, casual and coprate wears to suite your different needs
+
+</p>
+
+<h2>
+ Avalability
+</h2>
+  <p id="grouper">
+    Our products are available at our walk-in stores nation wide and also available on this websites. For more inquires please call our hot_line: 09056331889 or 09052676109, our customer care represntative is always available 24/7 to help with your needs.
+  </p>
+
+  <div class="pointer"><h3>
+    Stores location: Lagos island
+  </h3>
+
+<p> No.143 mandilas plaza lagos island</p>
+<p> No.2 eastlake adiva estate malete, ibeju lekki, lagos.</p>
+
+<h3>
+  Stores location: MainLand
+</h3>
+<p> No.95 uzor street ajegunle apapa lagos.</p>
+<p> No.57 chisco plaza orile</p>
+<p> No. 136 Allen avenew Ikeja</p>
+<p> No. 177 1st avenew Festac town</p>
+</div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
